@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,300&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.img-slogan{
+    display: flex;
+    background-image: url("img/last2.png");
+}
+.slogan{
+    padding-top: 100px;
+    text-align: center;
+}
+.platforms{
+    max-width: 600px;
+    padding-top: 150px;
+}
+.s-functions{
+    background-image: url("img/last.png");
+    background-repeat: no-repeat;
+    color: white;
+    padding-bottom: 80px;
+}
+.functional{
+    text-align: right;
+    padding-right: 200px;
+}
+.func{
+    margin: 50px;
+}
+.func-item{
+    display: flex;
+    max-width: 500px;
+    margin: 15px;
+}
+.func-item img{
+    max-width: 64px;
+    max-height: 64px;
+    margin:  0 50px;
+}
+.f-main{
+    display: flex;
+}
+.version{
+    text-align: center;
+}
+.gif{
+    display: flex;
+}
+.gif img{
+    max-height: 450px;
+}
+.info{
+    justify-content: left;
+    list-style-image: url("img/arrow-32-16.png");
+}
+.info{
+    margin: 15px;
+}
+.download-now{
+    text-align: center;
+    border-top: black 1px dashed;
+    padding-top: 10px;
+}
+.get img{
+    max-width: 400px;
+    margin: 2px 10px 2px 10px;
+}
+.f-info{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.f-info p{
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.103);
+}

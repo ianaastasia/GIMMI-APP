@@ -1,0 +1,119 @@
+@media screen and (max-width: 1200px) {
+    .platforms{
+        max-width: 500px;
+        padding-top: 150px;
+    }
+    .func-item p{
+        font-size: 14px;
+    }
+    .gif img{
+        max-height: 350px;
+    }
+    .get img{
+        max-width: 300px;
+        margin: 2px 30px;
+    }
+}
+@media screen and (max-width: 992px) {
+    .f-main p{
+        font-size: 13px;
+    }
+    .gif img{
+        max-height: 330px;
+    }
+    .get img{
+        max-width: 200px;
+        margin: 2px 50px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .platforms{
+        max-width: 400px;
+        padding-top: 180px;
+    }
+    .s-functions{
+        padding-top: -70px;
+    }
+    .func-item{
+        max-width: 700px;
+        margin: 3px;
+    }
+    .func{
+        margin-top: -14px;
+    }
+    .f-main img{
+        max-width: 34px;
+        max-height: 34px;
+        margin: 40px 30px
+    }
+    .f-main p{
+        font-size: 13px;
+    }
+    .version{
+        margin-top: -60px;
+    }
+    .gif img{
+        max-height: 230px;
+        margin-right: -50px;
+        margin-top: 150px;
+    }
+    .get img{
+        max-width: 200px;
+        margin: 2px 250px;
+    }
+    .connect{
+        font-size: 20px
+    }
+}
+@media screen and (max-width: 576px) {
+    .img-slogan {
+        background-image: none;
+    }
+    .platforms{
+        max-width: 300px;
+        padding-top: 150px;
+    }
+    .f-main{
+        background-image: none;
+        background-color: black;
+    }
+    .functional{
+        padding-top: 15px;
+        font-size: 25px;
+    }
+    .rev{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .f-main{
+        display: flex;
+        flex-direction: column;
+    }
+    .func{
+        margin-top: 14px;
+    }
+    .func-item p{
+        font-size: 17px;
+    }
+    .version{
+        margin-top: 0;
+    }
+    .gif{
+        display: flex;
+        flex-direction: column;
+    }
+    .gif img{
+        max-height: 330px;
+        margin-top: -20px;
+    }
+    .info h2{
+        text-align: center;
+    }
+    .get img{
+        max-width: 200px;
+        margin: 2px 140px;
+    }
+    .f-info img{
+        max-width: 22px;
+    }
+}
